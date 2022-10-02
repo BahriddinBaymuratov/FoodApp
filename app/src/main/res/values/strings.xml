@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="menu_food">Menu Food</string>
+    <string name="addfoods">Add Food</string>
+    <string name="food_name">Food Name</string>
+    <string name="necessary_products">Necessary products</string>
+    <string name="method_of_food_preparation">Method of food preparation</string>
+    <string name="save">Save</string>
+    <string name="palov">Palov</string>
+    <string name="kerakli_mahsulotlar">Kerakli mahsulotlar</string>
+</resources>
